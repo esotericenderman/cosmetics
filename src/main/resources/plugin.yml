@@ -1,5 +1,5 @@
 name: Cosmetics
-version: '1.0.0-SNAPSHOT'
+version: '1.0.0'
 main: dev.enderman.minecraft.plugins.cosmetics.CosmeticsPlugin
 api-version: '1.21'
 prefix: Cosmetics
