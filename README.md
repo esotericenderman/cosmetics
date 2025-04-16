@@ -6,15 +6,15 @@
 
 ## Gallery
 
-![Cosmetics GUI showcase](./assets/gifs/showcase.gif)
-![Admin command showcase](./assets/gifs/admin.gif)
+<img align="center" alt="Cosmetics GUI showcase" src="./assets/gifs/showcase.gif">
+<img align="center" alt="Admin command showcase" src="./assets/gifs/admin.gif">
 
 ### Cosmetics
 
-![Tiger hat cosmetic showcase](./assets/images/screenshots/cosmetics/hats/tiger.png)
-![Anger trail cosmetic showcase](./assets/gifs/cosmetics/trails/anger.gif)
-![Fire trail cosmetic showcase](./assets/gifs/cosmetics/trails/fire.gif)
-![Hearts trail cosmetic showcase](./assets/gifs/cosmetics/trails/hearts.gif)
+<img align="center" alt="Tiger hat cosmetic showcase" src="./assets/images/screenshots/cosmetics/hats/tiger.png">
+<img align="center" alt="Anger trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/anger.gif">
+<img align="center" alt="Fire trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/fire.gif">
+<img align="center" alt="Hearts trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/hearts.gif">
 
 ## License
 
