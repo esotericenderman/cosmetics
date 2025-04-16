@@ -16,6 +16,12 @@
 <p align="center"><img alt="Fire trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/fire.gif" width="700"></p>
 <p align="center"><img alt="Hearts trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/hearts.gif" width="700"></p>
 
+# Credit
+
+- [Tiger Ball](https://minecraft-heads.com/custom-heads/head/55759-tiger-ball) by [Marjory_](https://minecraft-heads.com/custom-heads/search?contributor=Marjory_)
+- [Top Hat](https://mcheads.ru/en/decoration/zczb)
+- [Doge](https://mcheads.ru/en/animals/omdb)
+
 ## License
 
 &copy; 2024-2025 [Esoteric Enderman](https://enderman.dev)
