@@ -7,6 +7,7 @@
 ## Gallery
 
 ![Cosmetics GUI showcase](./assets/videos/showcase.gif)
+![Admin command showcase](./assets/videos/admin.gif)
 
 ## License
 
