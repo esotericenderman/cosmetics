@@ -6,15 +6,15 @@
 
 <h2 align="center">Gallery</h2>
 
-<p align="center"><img alt="Cosmetics GUI showcase" src="./assets/gifs/showcase.gif"></p>
-<p align="center"><img alt="Admin command showcase" src="./assets/gifs/admin.gif"></p>
+<p align="center"><img alt="Cosmetics GUI showcase" src="./assets/gifs/showcase.gif" width="500"></p>
+<p align="center"><img alt="Admin command showcase" src="./assets/gifs/admin.gif" width="500"></p>
 
 <h3 align="center">Cosmetics</h3>
 
-<p align="center"><img alt="Tiger hat cosmetic showcase" src="./assets/images/screenshots/cosmetics/hats/tiger.png"></p>
-<p align="center"><img alt="Anger trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/anger.gif"></p>
-<p align="center"><img alt="Fire trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/fire.gif"></p>
-<p align="center"><img alt="Hearts trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/hearts.gif"></p>
+<p align="center"><img alt="Tiger hat cosmetic showcase" src="./assets/images/screenshots/cosmetics/hats/tiger.png" width="500"></p>
+<p align="center"><img alt="Anger trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/anger.gif" width="500"></p>
+<p align="center"><img alt="Fire trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/fire.gif" width="500"></p>
+<p align="center"><img alt="Hearts trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/hearts.gif" width="500"></p>
 
 ## License
 
