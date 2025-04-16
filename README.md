@@ -9,6 +9,13 @@
 ![Cosmetics GUI showcase](./assets/videos/showcase.gif)
 ![Admin command showcase](./assets/videos/admin.gif)
 
+### Cosmetics
+
+![Tiger hat cosmetic showcase](./assets/images/screenshots/cosmetics/hats/tiger.png)
+![Anger trail cosmetic showcase](./assets/gifs/cosmetics/trails/anger.gif)
+![Fire trail cosmetic showcase](./assets/gifs/cosmetics/trails/fire.gif)
+![Hearts trail cosmetic showcase](./assets/gifs/cosmetics/trails/hearts.gif)
+
 ## License
 
 &copy; 2024-2025 [Esoteric Enderman](https://enderman.dev)
