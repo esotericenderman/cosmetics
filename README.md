@@ -6,8 +6,8 @@
 
 ## Gallery
 
-![Cosmetics GUI showcase](./assets/videos/showcase.gif)
-![Admin command showcase](./assets/videos/admin.gif)
+![Cosmetics GUI showcase](./assets/gifs/showcase.gif)
+![Admin command showcase](./assets/gifs/admin.gif)
 
 ### Cosmetics
 
