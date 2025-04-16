@@ -4,12 +4,12 @@
 
 > A very simple Minecraft cosmetics plugin featuring hats and trails!
 
-## Gallery
+<h2 align="center">Gallery</h2>
 
 <p align="center"><img alt="Cosmetics GUI showcase" src="./assets/gifs/showcase.gif"></p>
 <p align="center"><img alt="Admin command showcase" src="./assets/gifs/admin.gif"></p>
 
-### Cosmetics
+<h3 align="center">Cosmetics</h3>
 
 <p align="center"><img alt="Tiger hat cosmetic showcase" src="./assets/images/screenshots/cosmetics/hats/tiger.png"></p>
 <p align="center"><img alt="Anger trail cosmetic showcase" src="./assets/gifs/cosmetics/trails/anger.gif"></p>
