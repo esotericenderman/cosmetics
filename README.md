@@ -1,8 +1,8 @@
-# Cosmetics
+<h1 align = "center">Cosmetics</h1>
 
-[![Project status: completed](./assets/images/badges/status.svg)](./)
+<p align="center"><a href="/"><img src="./assets/images/badges/status.svg" alt="Project status: completed" /></a></p>
 
-> A very simple Minecraft cosmetics plugin featuring hats and trails!
+<p align="center">A very simple Minecraft cosmetics plugin featuring hats and trails!</p>
 
 <h2 align="center">Gallery</h2>
 
