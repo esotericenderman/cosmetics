@@ -4,6 +4,10 @@
 
 > A very simple Minecraft cosmetics plugin featuring hats and trails!
 
+## Gallery
+
+![Cosmetics GUI showcase](./assets/videos/showcase.gif)
+
 ## License
 
 &copy; 2024-2025 [Esoteric Enderman](https://enderman.dev)
